@@ -1,4 +1,4 @@
-5.0.0-rc1 / 2017-01-02
+5.0.0-rc1 / 2018-01-02
 ======================
  * fix(index): use pluralize correctly for `mongoose.model()` #5958
  * fix: make mquery use native promises by default #5945
